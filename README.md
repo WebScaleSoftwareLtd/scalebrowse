@@ -1,6 +1,6 @@
 # ScaleBrowse
 
-Readme is a WIP. Based off Vivaldi browser. See [here](https://chromium.googlesource.com/chromium/src/+/main/docs/windows_build_instructions.md) for instructions on how to setup to build (the actual build here is kicked off by `make build`, though).
+Readme is a WIP. Based off Vivaldi browser. See [here](https://chromium.googlesource.com/chromium/src/+/main/docs/windows_build_instructions.md) for instructions on how to setup to build (the actual build here is kicked off by `make build` or `build.bat`, though).
 
 ## Setting up the repository
 
