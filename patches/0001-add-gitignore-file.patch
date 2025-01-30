@@ -1,0 +1,21 @@
+From 53a79cf293841108d75be5086ca943ef6ffa6d2d Mon Sep 17 00:00:00 2001
+From: Astrid Gealer <astrid@gealer.email>
+Date: Thu, 30 Jan 2025 16:31:11 +0000
+Subject: [PATCH] add gitignore file
+
+---
+ .gitignore | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000000..681a2797ce
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,2 @@
++# Ignore all build files
++out/
+-- 
+2.43.0
+
